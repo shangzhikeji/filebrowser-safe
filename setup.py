@@ -30,7 +30,7 @@ setup(
     author_email="werkstaetten@vonautomatisch.at",
     maintainer="Stephen McDonald",
     maintainer_email="stephen.mc@gmail.com",
-    url="https://github.com/shangzhikeji/filebrowser-safe",
+    url="https://github.com/shangzhikeji/filebrowser-safe.git",
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
